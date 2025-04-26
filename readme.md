@@ -2,7 +2,7 @@
 
 A real-time cryptocurrency price tracking dashboard built with React, Redux, and TypeScript. Features live price updates, sorting, and interactive charts.
 
-![Demo GIF](demo.gif)
+![Demo GIF](https://youtu.be/i6f6ZFMl_bk?si=EtlGaSY-GjtlJXR7)
 
 ## Tech Stack
 
